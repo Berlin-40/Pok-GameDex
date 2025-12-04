@@ -5,6 +5,8 @@ Explorez, ajoutez et découvrez de nouveaux jeux Pokémon, créés par des fans 
 
 ---
 
+![image](https://github.com/Berlin-40/Pok-GameDex/blob/0baacd1c4c8260d8bc9a4752359add8fa509c7b3/pokemon.png)
+
 ## 🌟 Description
 PokéGameDex est une plateforme dédiée aux passionnés de jeux Pokémon.  
 Le but est de :
